@@ -1,0 +1,87 @@
+.job-selector {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .job-selector__title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .job-selector__input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .job-selector__skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .job-selector__skill {
+    margin: 10px;
+    padding: 10px;
+    background-color: #eee;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .job-selector__skill:hover {
+    background-color: #ddd;
+  }
+  
+  .job-selector__skill--selected {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .job-selector__submit-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .job-selector__submit-button:hover {
+    background-color: #0062cc;
+  }
+  
+  .job-selector__clear-button {
+    padding: 10px 20px;
+    background-color: #dc3545;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .job-selector__clear-button:hover {
+    background-color: #c82333;
+  }
+  
+  .company_name{
+    color: rgb(14, 177, 76);
+  }
