@@ -68,7 +68,7 @@ To deploy this project undergo the following steps:
 
 
 ## Execution Manual
-1. Open JobPortal folder in VsCode or any other editor
+1. Open JobPortal folder in VsCode or any other editor.
 2. Open vscode's terminal and write the following command:
 ```bash
   cd frontend
