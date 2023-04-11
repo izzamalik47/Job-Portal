@@ -1,5 +1,5 @@
 
-# AI based Online Job Portal
+# AI Based Online Job Portal
 
 ## Contents
 - [About AI Based Online Job Portal](#about-ai-based-online-job-portal)
