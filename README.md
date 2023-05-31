@@ -39,7 +39,7 @@ This AI-based job finder portal is a cutting-edge platform that utilizes advance
 
 **Server:** Flask Server
 
-**Cloud:** Google Cloud, AWS API Server
+**Cloud:** Google Cloud
 
 
 ## Documentation
